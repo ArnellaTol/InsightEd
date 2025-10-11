@@ -1,0 +1,6 @@
+streamlit>=1.20
+numpy
+opencv-python
+pydub
+requests
+imageio-ffmpeg
