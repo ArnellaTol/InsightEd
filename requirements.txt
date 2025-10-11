@@ -1,6 +1,6 @@
-streamlit>=1.20
-numpy
-opencv-python
-pydub
-requests
-imageio-ffmpeg
+opencv-python-headless==4.11.0.86
+pydub==0.25.1
+numpy==2.3.3
+requests==2.32.5
+streamlit==1.50.0
+imageio-ffmpeg==0.6.0
